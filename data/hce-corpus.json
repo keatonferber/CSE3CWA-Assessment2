@@ -1,0 +1,950 @@
+{
+  "source": "HCE_Wordle_Phoneme_Corpus.docx",
+  "keyboard": [
+    "p",
+    "t",
+    "k",
+    "b",
+    "d",
+    "g",
+    "n",
+    "m",
+    "ŋ",
+    "f",
+    "s",
+    "θ",
+    "ʃ",
+    "v",
+    "z",
+    "ð",
+    "ʒ",
+    "l",
+    "ɹ",
+    "w",
+    "j",
+    "h",
+    "tʃ",
+    "dʒ",
+    "iː",
+    "ɪ",
+    "e",
+    "eː",
+    "æ",
+    "ɐ",
+    "ɐː",
+    "ɜː",
+    "ʉː",
+    "ɔ",
+    "oː",
+    "ʊ",
+    "æɪ",
+    "ɑe",
+    "oɪ",
+    "əʉ",
+    "æɔ",
+    "ɪə",
+    "ə"
+  ],
+  "words": [
+    {
+      "word": "bed",
+      "phonemes": [
+        "b",
+        "e",
+        "d"
+      ],
+      "phonemeCount": 3
+    },
+    {
+      "word": "bid",
+      "phonemes": [
+        "b",
+        "ɪ",
+        "d"
+      ],
+      "phonemeCount": 3
+    },
+    {
+      "word": "bad",
+      "phonemes": [
+        "b",
+        "æ",
+        "d"
+      ],
+      "phonemeCount": 3
+    },
+    {
+      "word": "bud",
+      "phonemes": [
+        "b",
+        "ɐ",
+        "d"
+      ],
+      "phonemeCount": 3
+    },
+    {
+      "word": "bird",
+      "phonemes": [
+        "b",
+        "ɜː",
+        "d"
+      ],
+      "phonemeCount": 3
+    },
+    {
+      "word": "bark",
+      "phonemes": [
+        "b",
+        "ɐː",
+        "k"
+      ],
+      "phonemeCount": 3
+    },
+    {
+      "word": "book",
+      "phonemes": [
+        "b",
+        "ʊ",
+        "k"
+      ],
+      "phonemeCount": 3
+    },
+    {
+      "word": "boot",
+      "phonemes": [
+        "b",
+        "ʉː",
+        "t"
+      ],
+      "phonemeCount": 3
+    },
+    {
+      "word": "boat",
+      "phonemes": [
+        "b",
+        "əʉ",
+        "t"
+      ],
+      "phonemeCount": 3
+    },
+    {
+      "word": "bike",
+      "phonemes": [
+        "b",
+        "ɑe",
+        "k"
+      ],
+      "phonemeCount": 3
+    },
+    {
+      "word": "bait",
+      "phonemes": [
+        "b",
+        "æɪ",
+        "t"
+      ],
+      "phonemeCount": 3
+    },
+    {
+      "word": "boil",
+      "phonemes": [
+        "b",
+        "oɪ",
+        "l"
+      ],
+      "phonemeCount": 3
+    },
+    {
+      "word": "beard",
+      "phonemes": [
+        "b",
+        "ɪə",
+        "d"
+      ],
+      "phonemeCount": 3
+    },
+    {
+      "word": "choice",
+      "phonemes": [
+        "tʃ",
+        "oɪ",
+        "s"
+      ],
+      "phonemeCount": 3
+    },
+    {
+      "word": "thin",
+      "phonemes": [
+        "θ",
+        "ɪ",
+        "n"
+      ],
+      "phonemeCount": 3
+    },
+    {
+      "word": "then",
+      "phonemes": [
+        "ð",
+        "e",
+        "n"
+      ],
+      "phonemeCount": 3
+    },
+    {
+      "word": "ship",
+      "phonemes": [
+        "ʃ",
+        "ɪ",
+        "p"
+      ],
+      "phonemeCount": 3
+    },
+    {
+      "word": "chin",
+      "phonemes": [
+        "tʃ",
+        "ɪ",
+        "n"
+      ],
+      "phonemeCount": 3
+    },
+    {
+      "word": "jam",
+      "phonemes": [
+        "dʒ",
+        "æ",
+        "m"
+      ],
+      "phonemeCount": 3
+    },
+    {
+      "word": "yes",
+      "phonemes": [
+        "j",
+        "e",
+        "s"
+      ],
+      "phonemeCount": 3
+    },
+    {
+      "word": "win",
+      "phonemes": [
+        "w",
+        "ɪ",
+        "n"
+      ],
+      "phonemeCount": 3
+    },
+    {
+      "word": "ring",
+      "phonemes": [
+        "ɹ",
+        "ɪ",
+        "ŋ"
+      ],
+      "phonemeCount": 3
+    },
+    {
+      "word": "log",
+      "phonemes": [
+        "l",
+        "ɔ",
+        "ɡ"
+      ],
+      "phonemeCount": 3
+    },
+    {
+      "word": "fan",
+      "phonemes": [
+        "f",
+        "æ",
+        "n"
+      ],
+      "phonemeCount": 3
+    },
+    {
+      "word": "van",
+      "phonemes": [
+        "v",
+        "æ",
+        "n"
+      ],
+      "phonemeCount": 3
+    },
+    {
+      "word": "sun",
+      "phonemes": [
+        "s",
+        "ɐ",
+        "n"
+      ],
+      "phonemeCount": 3
+    },
+    {
+      "word": "zip",
+      "phonemes": [
+        "z",
+        "ɪ",
+        "p"
+      ],
+      "phonemeCount": 3
+    },
+    {
+      "word": "gum",
+      "phonemes": [
+        "ɡ",
+        "ɐ",
+        "m"
+      ],
+      "phonemeCount": 3
+    },
+    {
+      "word": "hat",
+      "phonemes": [
+        "h",
+        "æ",
+        "t"
+      ],
+      "phonemeCount": 3
+    },
+    {
+      "word": "fork",
+      "phonemes": [
+        "f",
+        "oː",
+        "k"
+      ],
+      "phonemeCount": 3
+    },
+    {
+      "word": "stop",
+      "phonemes": [
+        "s",
+        "t",
+        "ɔ",
+        "p"
+      ],
+      "phonemeCount": 4
+    },
+    {
+      "word": "frog",
+      "phonemes": [
+        "f",
+        "ɹ",
+        "ɔ",
+        "ɡ"
+      ],
+      "phonemeCount": 4
+    },
+    {
+      "word": "clap",
+      "phonemes": [
+        "k",
+        "l",
+        "æ",
+        "p"
+      ],
+      "phonemeCount": 4
+    },
+    {
+      "word": "slip",
+      "phonemes": [
+        "s",
+        "l",
+        "ɪ",
+        "p"
+      ],
+      "phonemeCount": 4
+    },
+    {
+      "word": "drum",
+      "phonemes": [
+        "d",
+        "ɹ",
+        "ɐ",
+        "m"
+      ],
+      "phonemeCount": 4
+    },
+    {
+      "word": "grin",
+      "phonemes": [
+        "ɡ",
+        "ɹ",
+        "ɪ",
+        "n"
+      ],
+      "phonemeCount": 4
+    },
+    {
+      "word": "train",
+      "phonemes": [
+        "t",
+        "ɹ",
+        "æɪ",
+        "n"
+      ],
+      "phonemeCount": 4
+    },
+    {
+      "word": "cloud",
+      "phonemes": [
+        "k",
+        "l",
+        "æɔ",
+        "d"
+      ],
+      "phonemeCount": 4
+    },
+    {
+      "word": "snake",
+      "phonemes": [
+        "s",
+        "n",
+        "æɪ",
+        "k"
+      ],
+      "phonemeCount": 4
+    },
+    {
+      "word": "smile",
+      "phonemes": [
+        "s",
+        "m",
+        "ɑe",
+        "l"
+      ],
+      "phonemeCount": 4
+    },
+    {
+      "word": "milk",
+      "phonemes": [
+        "m",
+        "ɪ",
+        "l",
+        "k"
+      ],
+      "phonemeCount": 4
+    },
+    {
+      "word": "hand",
+      "phonemes": [
+        "h",
+        "æ",
+        "n",
+        "d"
+      ],
+      "phonemeCount": 4
+    },
+    {
+      "word": "tent",
+      "phonemes": [
+        "t",
+        "e",
+        "n",
+        "t"
+      ],
+      "phonemeCount": 4
+    },
+    {
+      "word": "jump",
+      "phonemes": [
+        "dʒ",
+        "ɐ",
+        "m",
+        "p"
+      ],
+      "phonemeCount": 4
+    },
+    {
+      "word": "lamp",
+      "phonemes": [
+        "l",
+        "æ",
+        "m",
+        "p"
+      ],
+      "phonemeCount": 4
+    },
+    {
+      "word": "bank",
+      "phonemes": [
+        "b",
+        "æ",
+        "ŋ",
+        "k"
+      ],
+      "phonemeCount": 4
+    },
+    {
+      "word": "frame",
+      "phonemes": [
+        "f",
+        "ɹ",
+        "æɪ",
+        "m"
+      ],
+      "phonemeCount": 4
+    },
+    {
+      "word": "cold",
+      "phonemes": [
+        "k",
+        "əʉ",
+        "l",
+        "d"
+      ],
+      "phonemeCount": 4
+    },
+    {
+      "word": "wind",
+      "phonemes": [
+        "w",
+        "ɪ",
+        "n",
+        "d"
+      ],
+      "phonemeCount": 4
+    },
+    {
+      "word": "soft",
+      "phonemes": [
+        "s",
+        "ɔ",
+        "f",
+        "t"
+      ],
+      "phonemeCount": 4
+    },
+    {
+      "word": "gift",
+      "phonemes": [
+        "ɡ",
+        "ɪ",
+        "f",
+        "t"
+      ],
+      "phonemeCount": 4
+    },
+    {
+      "word": "desk",
+      "phonemes": [
+        "d",
+        "e",
+        "s",
+        "k"
+      ],
+      "phonemeCount": 4
+    },
+    {
+      "word": "left",
+      "phonemes": [
+        "l",
+        "e",
+        "f",
+        "t"
+      ],
+      "phonemeCount": 4
+    },
+    {
+      "word": "pond",
+      "phonemes": [
+        "p",
+        "ɔ",
+        "n",
+        "d"
+      ],
+      "phonemeCount": 4
+    },
+    {
+      "word": "golf",
+      "phonemes": [
+        "ɡ",
+        "ɔ",
+        "l",
+        "f"
+      ],
+      "phonemeCount": 4
+    },
+    {
+      "word": "silk",
+      "phonemes": [
+        "s",
+        "ɪ",
+        "l",
+        "k"
+      ],
+      "phonemeCount": 4
+    },
+    {
+      "word": "great",
+      "phonemes": [
+        "g",
+        "ɹ",
+        "æɪ",
+        "t"
+      ],
+      "phonemeCount": 4
+    },
+    {
+      "word": "crab",
+      "phonemes": [
+        "k",
+        "ɹ",
+        "æ",
+        "b"
+      ],
+      "phonemeCount": 4
+    },
+    {
+      "word": "plug",
+      "phonemes": [
+        "p",
+        "l",
+        "ɐ",
+        "ɡ"
+      ],
+      "phonemeCount": 4
+    },
+    {
+      "word": "quiz",
+      "phonemes": [
+        "k",
+        "w",
+        "ɪ",
+        "z"
+      ],
+      "phonemeCount": 4
+    },
+    {
+      "word": "stamp",
+      "phonemes": [
+        "s",
+        "t",
+        "æ",
+        "m",
+        "p"
+      ],
+      "phonemeCount": 5
+    },
+    {
+      "word": "plant",
+      "phonemes": [
+        "p",
+        "l",
+        "æ",
+        "n",
+        "t"
+      ],
+      "phonemeCount": 5
+    },
+    {
+      "word": "blank",
+      "phonemes": [
+        "b",
+        "l",
+        "æ",
+        "ŋ",
+        "k"
+      ],
+      "phonemeCount": 5
+    },
+    {
+      "word": "grand",
+      "phonemes": [
+        "ɡ",
+        "ɹ",
+        "æ",
+        "n",
+        "d"
+      ],
+      "phonemeCount": 5
+    },
+    {
+      "word": "clamp",
+      "phonemes": [
+        "k",
+        "l",
+        "æ",
+        "m",
+        "p"
+      ],
+      "phonemeCount": 5
+    },
+    {
+      "word": "twist",
+      "phonemes": [
+        "t",
+        "w",
+        "ɪ",
+        "s",
+        "t"
+      ],
+      "phonemeCount": 5
+    },
+    {
+      "word": "trust",
+      "phonemes": [
+        "t",
+        "ɹ",
+        "ɐ",
+        "s",
+        "t"
+      ],
+      "phonemeCount": 5
+    },
+    {
+      "word": "drink",
+      "phonemes": [
+        "d",
+        "ɹ",
+        "ɪ",
+        "ŋ",
+        "k"
+      ],
+      "phonemeCount": 5
+    },
+    {
+      "word": "brisk",
+      "phonemes": [
+        "b",
+        "ɹ",
+        "ɪ",
+        "s",
+        "k"
+      ],
+      "phonemeCount": 5
+    },
+    {
+      "word": "shrimp",
+      "phonemes": [
+        "ʃ",
+        "ɹ",
+        "ɪ",
+        "m",
+        "p"
+      ],
+      "phonemeCount": 5
+    },
+    {
+      "word": "scrap",
+      "phonemes": [
+        "s",
+        "k",
+        "ɹ",
+        "æ",
+        "p"
+      ],
+      "phonemeCount": 5
+    },
+    {
+      "word": "scribe",
+      "phonemes": [
+        "s",
+        "k",
+        "ɹ",
+        "ɑe",
+        "b"
+      ],
+      "phonemeCount": 5
+    },
+    {
+      "word": "scream",
+      "phonemes": [
+        "s",
+        "k",
+        "ɹ",
+        "iː",
+        "m"
+      ],
+      "phonemeCount": 5
+    },
+    {
+      "word": "splash",
+      "phonemes": [
+        "s",
+        "p",
+        "l",
+        "æ",
+        "ʃ"
+      ],
+      "phonemeCount": 5
+    },
+    {
+      "word": "spring",
+      "phonemes": [
+        "s",
+        "p",
+        "ɹ",
+        "ɪ",
+        "ŋ"
+      ],
+      "phonemeCount": 5
+    },
+    {
+      "word": "strap",
+      "phonemes": [
+        "s",
+        "t",
+        "ɹ",
+        "æ",
+        "p"
+      ],
+      "phonemeCount": 5
+    },
+    {
+      "word": "street",
+      "phonemes": [
+        "s",
+        "t",
+        "ɹ",
+        "iː",
+        "t"
+      ],
+      "phonemeCount": 5
+    },
+    {
+      "word": "scrub",
+      "phonemes": [
+        "s",
+        "k",
+        "ɹ",
+        "ɐ",
+        "b"
+      ],
+      "phonemeCount": 5
+    },
+    {
+      "word": "flask",
+      "phonemes": [
+        "f",
+        "l",
+        "ɐː",
+        "s",
+        "k"
+      ],
+      "phonemeCount": 5
+    },
+    {
+      "word": "clasp",
+      "phonemes": [
+        "k",
+        "l",
+        "ɐː",
+        "s",
+        "p"
+      ],
+      "phonemeCount": 5
+    },
+    {
+      "word": "cleft",
+      "phonemes": [
+        "k",
+        "l",
+        "e",
+        "f",
+        "t"
+      ],
+      "phonemeCount": 5
+    },
+    {
+      "word": "glint",
+      "phonemes": [
+        "ɡ",
+        "l",
+        "ɪ",
+        "n",
+        "t"
+      ],
+      "phonemeCount": 5
+    },
+    {
+      "word": "blend",
+      "phonemes": [
+        "b",
+        "l",
+        "e",
+        "n",
+        "d"
+      ],
+      "phonemeCount": 5
+    },
+    {
+      "word": "strain",
+      "phonemes": [
+        "s",
+        "t",
+        "ɹ",
+        "æɪ",
+        "n"
+      ],
+      "phonemeCount": 5
+    },
+    {
+      "word": "thrust",
+      "phonemes": [
+        "θ",
+        "ɹ",
+        "ɐ",
+        "s",
+        "t"
+      ],
+      "phonemeCount": 5
+    },
+    {
+      "word": "sprawl",
+      "phonemes": [
+        "s",
+        "p",
+        "ɹ",
+        "oː",
+        "l"
+      ],
+      "phonemeCount": 5
+    },
+    {
+      "word": "scrawl",
+      "phonemes": [
+        "s",
+        "k",
+        "ɹ",
+        "oː",
+        "l"
+      ],
+      "phonemeCount": 5
+    },
+    {
+      "word": "sprig",
+      "phonemes": [
+        "s",
+        "p",
+        "ɹ",
+        "ɪ",
+        "ɡ"
+      ],
+      "phonemeCount": 5
+    },
+    {
+      "word": "sprout",
+      "phonemes": [
+        "s",
+        "p",
+        "ɹ",
+        "æɔ",
+        "t"
+      ],
+      "phonemeCount": 5
+    },
+    {
+      "word": "smoked",
+      "phonemes": [
+        "s",
+        "m",
+        "əʉ",
+        "k",
+        "t"
+      ],
+      "phonemeCount": 5
+    }
+  ]
+}

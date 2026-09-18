@@ -1,0 +1,80 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model WordList {
+  id          Int              @id @default(autoincrement())
+  name        String           @unique
+  description String           @default("")
+  createdAt   DateTime         @default(now())
+  updatedAt   DateTime         @updatedAt
+  words       Word[]
+  configs     ActivityConfig[]
+}
+
+model Word {
+  id         Int           @id @default(autoincrement())
+  english    String
+  difficulty String        @default("medium")
+  hint       String        @default("")
+  listId     Int
+  list       WordList      @relation(fields: [listId], references: [id], onDelete: Cascade)
+  phonemes   WordPhoneme[]
+  createdAt  DateTime      @default(now())
+  updatedAt  DateTime      @updatedAt
+
+  @@unique([listId, english])
+  @@index([listId])
+}
+
+model Phoneme {
+  id          Int           @id @default(autoincrement())
+  symbol      String        @unique
+  hintLabel   String        @default("")
+  exampleWord String        @default("")
+  wordTokens  WordPhoneme[]
+}
+
+model WordPhoneme {
+  id        Int      @id @default(autoincrement())
+  position  Int
+  wordId    Int
+  phonemeId Int
+  word      Word     @relation(fields: [wordId], references: [id], onDelete: Cascade)
+  phoneme   Phoneme  @relation(fields: [phonemeId], references: [id], onDelete: Restrict)
+
+  @@unique([wordId, position])
+  @@index([wordId])
+  @@index([phonemeId])
+}
+
+model ActivityConfig {
+  id                   Int      @id @default(autoincrement())
+  name                 String
+  type                 String
+  listId               Int
+  list                 WordList @relation(fields: [listId], references: [id], onDelete: Cascade)
+  difficulty           String   @default("any")
+  wordCount            Int      @default(5)
+  phonemeLength        Int?
+  gridRows             Int      @default(10)
+  gridCols             Int      @default(10)
+  maxAttempts          Int      @default(6)
+  showHints            Boolean  @default(true)
+  showEnglishOnCorrect Boolean  @default(true)
+  allowDiagonal        Boolean  @default(true)
+  allowReverse         Boolean  @default(true)
+  showAnswers          Boolean  @default(true)
+  title                String   @default("")
+  instructions         String   @default("")
+  createdAt            DateTime @default(now())
+  updatedAt            DateTime @updatedAt
+
+  @@index([listId])
+  @@index([type])
+}

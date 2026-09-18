@@ -1,0 +1,9 @@
+AI ACKNOWLEDGEMENT — ADAPT TO THE OFFICIAL LA TROBE FORM
+
+Generative AI use is listed as Full AI for this assessment.
+
+Suggested acknowledgement wording:
+
+I used OpenAI ChatGPT to assist with planning, code generation, debugging, database/API design, documentation, and preparation of the demonstration checklist for this assessment. I reviewed the generated project against the supplied assessment instructions, marking rubric, HCE phoneme corpus, and supplied Word Search reference implementation. I remain responsible for the submitted work and for demonstrating and explaining how it functions.
+
+Important: complete the official AI acknowledgement on the Assessments page if the unit requires that specific form. This text file is only a draft/template and does not replace the university acknowledgement process.

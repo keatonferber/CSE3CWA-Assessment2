@@ -1,0 +1,27 @@
+# Final submission checklist
+
+- [ ] Replace name and student number in `lib/site.js`.
+- [ ] `npm install` completes.
+- [ ] Generated `package-lock.json` is kept and committed to GitHub.
+- [ ] `npm run db:setup` completes and seeds 90 HCE words.
+- [ ] Home page loads.
+- [ ] Word Lists CRUD tested: create/read/update/delete.
+- [ ] Activity Settings CRUD tested.
+- [ ] Wordle Preview works.
+- [ ] Wordle Generate HTML downloads and standalone file works.
+- [ ] Word Search Preview works.
+- [ ] Word Search Generate HTML downloads and standalone file works.
+- [ ] Invalid/malformed data produces a clear error.
+- [ ] `http://localhost:3000/health` returns HTTP 200.
+- [ ] `npm run build` completes successfully.
+- [ ] `docker compose up --build` completes successfully.
+- [ ] App works from Docker.
+- [ ] GitHub repository created.
+- [ ] Multiple meaningful commits visible on GitHub.
+- [ ] README current and GitHub repository link ready for submission/video.
+- [ ] `node_modules` is not in the upload ZIP.
+- [ ] Student ID shown within first 30 seconds of video.
+- [ ] Face visible and narration provided throughout video as required.
+- [ ] CRUD, generated outputs, `/health`, Docker and GitHub shown in video.
+- [ ] Minimum five academic/industry references shown if used.
+- [ ] Official AI acknowledgement completed.
