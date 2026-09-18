@@ -1,5 +1,7 @@
 # CSE3CWA Assessment 2 — Phoneme Activity Builder
 
+GitHub repository: https://github.com/keatonferber/CSE3CWA-Assessment2
+
 A full-stack Next.js application for Speech Pathology teachers. The Assessment 1 frontend workflow is retained and Assessment 2 adds database persistence, backend APIs, CRUD operations, validation, standalone HTML generation and Docker execution.
 
 ## Assessment basis
