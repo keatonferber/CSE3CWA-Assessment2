@@ -2,8 +2,6 @@
 
 A full-stack Next.js application for Speech Pathology teachers. The Assessment 1 frontend workflow is retained and Assessment 2 adds database persistence, backend APIs, CRUD operations, validation, standalone HTML generation and Docker execution.
 
-> **Before recording or submitting:** open `lib/site.js` and replace `REPLACE WITH YOUR NAME` and `REPLACE WITH YOUR STUDENT NUMBER`.
-
 ## Assessment basis
 
 This project is structured as a Next.js App Router application matching the required `npx create-next-app .` workflow. It implements the Assessment 2 brief while keeping the required Assessment 1 pages and frontend workflow in place.
